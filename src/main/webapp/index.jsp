@@ -5,7 +5,7 @@
     <title>Jenkins-Hello World</title>
 </head>
 <body>
-<h1><%= "Hello Mukesh ishi how are you!" %>
+<h1><%= "Hello Mukesh ishi what about you!" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
